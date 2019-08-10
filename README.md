@@ -49,26 +49,26 @@
 
 
 
-![](http://pbnsc9qwg.bkt.clouddn.com/bijibencmd.jpg)
+![](http://cdn.lunatic.wang/bijibencmd.jpg)
 
 
-![](http://pbnsc9qwg.bkt.clouddn.com/zhujiIP.PNG)
+![](http://cdn.lunatic.wang/zhujiIP.PNG)
 
 > CMD
 
 > $ ping 100.64.98.103
 
-![](http://pbnsc9qwg.bkt.clouddn.com/zhujiping.PNG)
+![](http://cdn.lunatic.wang/zhujiping.PNG)
 
 > CMD
 
 > $ ping 100.64.203.33 
 
-![](http://pbnsc9qwg.bkt.clouddn.com/xiugaibijibenping.jpg)
+![](http://cdn.lunatic.wang/xiugaibijibenping.jpg)
 
 若出现某一方无法正常ping通，则检查防火墙设置，具体为：打开防火墙设置，防火墙高级，入站规则，启动**文件和打印机共享(回显请求)**。
 
-![](http://pbnsc9qwg.bkt.clouddn.com/xiugaifanghuoqiang.PNG)
+![](http://cdn.lunatic.wang/xiugaifanghuoqiang.PNG)
 
 
 ### 开启CCProxy
@@ -78,7 +78,7 @@
 1. 安装CCProxy
 2. 点击设置
 3. 请选择本机局域网ip(也可选择*自动检测*)
-![](http://pbnsc9qwg.bkt.clouddn.com/xuanzeip.png)
+![](http://cdn.lunatic.wang/xuanzeip.png)
 
 至此完成HTTP代理的架设。
 
@@ -88,16 +88,16 @@
 
 此步作用为全局代理软件，所有软件都可连入互联网，若只需浏览网页则：
 
-![](http://pbnsc9qwg.bkt.clouddn.com/ceshi.png)
+![](http://cdn.lunatic.wang/ceshi.png)
 
 
 开启Proxifier：
 
 1. 安装Proxifier
 2. 打开Proxifier，点击代理服务器,点击编辑填写ip以及端口
-![](http://pbnsc9qwg.bkt.clouddn.com/peizhiProxifier.png)
+![](http://cdn.lunatic.wang/peizhiProxifier.png)
 3. 点击代理规则，在目标主机中加入被代理的ip
-![](http://pbnsc9qwg.bkt.clouddn.com/bianxieguize.png)
+![](http://cdn.lunatic.wang/bianxieguize.png)
 加入目标主机的原因是CMD或者GIT能够联网。
 
 
@@ -124,6 +124,6 @@
 
 ## 完成
 
-![](http://pbnsc9qwg.bkt.clouddn.com/qq.png)
+![](http://cdn.lunatic.wang/qq.png)
 
 
