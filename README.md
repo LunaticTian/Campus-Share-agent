@@ -90,7 +90,9 @@
 
 ![](http://cdn.lunatic.wang/ceshi.png)
 
+此时即可通过浏览器浏览网页，部分软件拥有IP代理功能，也可以通过代理IP方式进行软件联网通讯。
 
+### 全局上网
 开启Proxifier：
 
 1. 安装Proxifier
@@ -103,24 +105,9 @@
 
 ## 移动端
 
-###Android
+### 移动端上网
 
-安卓需要下载ProxyDroid进行搭配。
-
-需求：
-
-- root
-- Android8.0以下
-
-[教你在Android手机上使用全局代理！](https://blog.csdn.net/testcs_dn/article/details/78526468)
-
-### ios
-
-不建议ios端进行全局配置。
-
-
-
-[iOS 全局代理](https://blog.huguotao.com/post/iOS-proxy)
+移动端设备在wifi中高级或者其他选项中，配置代理为手动，输入上诉相关信息即可上网。
 
 ## 完成
 
